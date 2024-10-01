@@ -62,7 +62,7 @@
   <img width="15"/>
 </div>
 
-##### ⚡ Want to learn:
+#### ⚡ Want to learn:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="25" alt="r"/>
   <img width="15"/>
@@ -72,9 +72,9 @@
   <img width="15"/>
 </div>
 
-##### ✏️ Editors:
+### ✏️ Editors:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-plain.svg" height="25" alt="jetbrains"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-plain.svg" height="25" alt="jetbrains" style="filter: invert(1);"/>
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="25" alt="pycharm"/>
   <img width="15"/>
@@ -88,7 +88,7 @@
 
 ### 📫 How to reach me:
 <div align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/konstantinos-zachoulitis-30523929a/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="24" alt="linkedin"/>
   <a/> 
   <img width="20"/>
