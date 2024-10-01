@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
-**el-maestro78/el-maestro78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<span><img align="center" src="https://profile-counter.glitch.me/el-maestro78/count.svg" height="25" alt="visitor counter" /></span>
+
 -->
