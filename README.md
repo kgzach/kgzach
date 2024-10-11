@@ -3,6 +3,7 @@
 <!-- - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning **Python, Pytorch, Go**
 -->
+
 <!-- -->
 
 <div align="center">
@@ -10,7 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-maestro78&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"/>
 </div>
 
-### 🥪 Stack 
+### 🥪 Stack
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python"/>
   <img width="15"/>
@@ -50,6 +52,8 @@
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="25" alt="mariadb"/>
   <img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="25" alt="mongodb"/>
+  <img width="15"/>
 </div>
 <div align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="25" alt="c"/>
@@ -63,6 +67,7 @@
 </div>
 
 #### ⚡ Want to learn:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="25" alt="r"/>
   <img width="15"/>
@@ -73,6 +78,7 @@
 </div>
 
 ### ✏️ Editors:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-plain.svg" height="25" alt="jetbrains" style="filter: invert(1);"/>
   <img width="15"/>
@@ -87,19 +93,19 @@
 </div>
 
 ### 📫 How to reach me:
+
 <div align="left">
   <a href="https://www.linkedin.com/in/konstantinos-zachoulitis-30523929a/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="24" alt="linkedin"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="26" alt="linkedin"/>
   <a/> 
   <img width="20"/>
   <a href="mailto:kzachoulitis@outlook.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" height="24" alt="email" style="filter: invert(1);"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" height="26" alt="email" style="filter: invert(1);"/>
 
-  </a>
-  
 </div>
 
 ### 👀 Current Views
-<span><img align="center" src="https://profile-counter.glitch.me/el-maestro78/count.svg" height="25" alt="visitor counter" /></span>
+
+`<span><img align="center" src="https://profile-counter.glitch.me/el-maestro78/count.svg" height="25" alt="visitor counter" />`
 
 <!-- -->
