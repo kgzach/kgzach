@@ -4,15 +4,12 @@
 - 🌱 I’m currently learning **Python, Pytorch, Go**
 -->
 
-<!-- -->
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=el-maestro78&theme=tokyonight&hide_border=true" height="150" alt="total graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-maestro78&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"/>
 </div>
 
 ### 🥪 Stack
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python"/>
   <img width="15"/>
@@ -67,7 +64,6 @@
 </div>
 
 #### ⚡ Want to learn:
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="25" alt="r"/>
   <img width="15"/>
@@ -78,7 +74,6 @@
 </div>
 
 ### ✏️ Editors:
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-plain.svg" height="25" alt="jetbrains" style="filter: invert(1);"/>
   <img width="15"/>
@@ -93,7 +88,6 @@
 </div>
 
 ### 📫 How to reach me:
-
 <div align="left">
   <a href="https://www.linkedin.com/in/konstantinos-zachoulitis-30523929a/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="26" alt="linkedin"/>
@@ -105,7 +99,5 @@
 </div>
 
 ### 👀 Current Views
-
-`<span><img align="center" src="https://profile-counter.glitch.me/el-maestro78/count.svg" height="25" alt="visitor counter" />`
-
+<span><img align="center" src="https://profile-counter.glitch.me/el-maestro78/count.svg" height="25" alt="visitor counter" />
 <!-- -->
