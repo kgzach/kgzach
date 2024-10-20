@@ -31,10 +31,6 @@
   <img width="15"/>
 </div>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java"/>
-  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5"/>
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3"/>
@@ -42,6 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript"/>
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java"/>
   <img width="15"/>
 </div>
 <div align="left">  
@@ -66,6 +66,8 @@
 #### ⚡ Want to learn:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="25" alt="r"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="25" alt="scala"/>
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="25" alt="django"/>
   <img width="15"/>
@@ -92,10 +94,16 @@
   <a href="https://www.linkedin.com/in/konstantinos-zachoulitis-30523929a/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="26" alt="linkedin"/>
   <a/> 
-  <img width="20"/>
+  <img width="21"/>
   <a href="mailto:kzachoulitis@outlook.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" height="26" alt="email" style="filter: invert(1);"/>
-
+    <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/email-1856783-1576516.png" height="26" alt="email""/>
+  <a/> 
+  <img width="21"/>
+        <!--
+  <a href="mailto:kzachoulitis@outlook.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg"     height="26" alt="email" style="filter: invert(1);"/>
+  <a/> 
+  <img width="20"/>-->
 </div>
 
 ### 👀 Current Views
