@@ -5,8 +5,8 @@
 -->
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=el-maestro78&theme=tokyonight&hide_border=true" height="150" alt="total graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-maestro78&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kgzach&theme=tokyonight&hide_border=true" height="150" alt="total graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgzach&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"/>
 </div>
 
 ### 🥪 Stack
@@ -107,5 +107,5 @@
 </div>
 
 ### 👀 Current Views
-<span><img align="center" src="https://profile-counter.glitch.me/el-maestro78/count.svg" height="25" alt="visitor counter" />
+<span><img align="center" src="https://profile-counter.glitch.me/kgzach/count.svg" height="25" alt="visitor counter" />
 <!-- -->
